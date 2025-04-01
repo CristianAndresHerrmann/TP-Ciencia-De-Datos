@@ -6,7 +6,7 @@ Este repositorio contiene el código y análisis realizados en el marco de un Tr
 
 El objetivo del TP es aplicar técnicas de Ciencia de Datos para analizar un dataset, preprocesar los datos y entrenar dos modelos de clasificación: **K-Nearest Neighbors (KNN) y Random Forest**. 
 
-El proyecto fue realizado en equipo por [Tu Nombre] y [Nombre de tu compañera].
+El proyecto fue realizado por Cristian Herrmann y Micaela Assenza.
 
 ## 🛠️ Tecnologías utilizadas
 
